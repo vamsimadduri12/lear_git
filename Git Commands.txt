@@ -88,3 +88,5 @@ git rebase
 ---------
 
 the term rebase refers moving or combining sequence of commits.
+
+that is all
