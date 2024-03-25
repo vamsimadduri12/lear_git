@@ -1,0 +1,13 @@
+
+git add --> this command is used to add files in local repo to staging
+git push --> this is used to push local repo to remote repo
+git pull --> this command is used to fetch and merge modifications from remote repo to local repo
+
+git config --> it is used to set set user mail and user name 
+git init --> used to initialise blank repos it creats .git file work dir
+
+git branch --> this will create list and remove rename branch
+
+git merge --> this is used to integrate diff branches in single branch
+git diff --> is used to diff bw the changes made on a file 
+git clone --> used to create copy of a targ repos
