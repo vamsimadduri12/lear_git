@@ -1,0 +1,90 @@
+git init
+--------
+
+git init command is used to initialise blank repository.
+it creates .git folder in current working directory.
+once you get into this file you will se bunch of dir and configs
+when git repository is created first time it creates 
+branch and that branch is master.
+
+git commit
+----------
+git commit command is used to save the changes in
+local repository.the command helps you keep a 
+record on all the changes made
+
+git add
+-------
+
+it adds all the files in the repository to the staging area
+
+git status
+----------
+
+it is used to display state of working dir and staging area
+
+git merge
+---------
+
+this commands is used to integrate 
+different branches into single branch
+
+git push
+---------
+
+it is used to push 
+local repository content to a remote repository.
+
+git pull
+--------
+
+to fetch and merge the changes from the 
+remote repository to local repository
+
+git clone
+-----------
+
+this command create a copy on
+target repos in 
+a new directory  at a new place.
+
+git branch
+-------------
+
+is used to create list, rename and delete branch
+
+git chekout
+-----------
+
+the command enables the navigation between the branches
+
+
+git config
+----------
+
+used set configs like name email id etc 
+
+
+git diff
+-------
+
+used to show the difference between the changes
+made on a file
+
+git log
+-------
+
+it is used to view the previous commits.
+
+git reset
+---------
+the command is used to undo the local changes
+
+the command having three forms
+
+"-soft, -mixed, -hard"
+
+git rebase
+---------
+
+the term rebase refers moving or combining sequence of commits.
